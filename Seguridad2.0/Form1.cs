@@ -12,6 +12,7 @@ using CapaInterfazMantenimientoUsuarios;
 using CapaInterfazAsignacionDePerfiles;
 using CapaInterfazIngresoModulos;
 using CapaInterfazMantenimientoAplicaciones;
+using BITACORA;
 using InicioSesion;
 
 

@@ -33,6 +33,10 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="BITACORA, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Desktop\SEGURIDAD\BITACORA.dll</HintPath>
+    </Reference>
     <Reference Include="CambioDeHost">
       <HintPath>..\..\CambioDeHost\CambioDeHost\bin\Debug\CambioDeHost.dll</HintPath>
     </Reference>
@@ -107,6 +111,7 @@
     <Folder Include="Complements\" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Resources\BITACORA.dll" />
     <Content Include="Resources\CambioDeHost.dll" />
     <Content Include="Resources\CapaInterfazAsignacionDePerfiles.dll" />
     <Content Include="Resources\CapaInterfazIngresoModulos.dll" />
